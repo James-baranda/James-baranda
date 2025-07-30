@@ -1,0 +1,45 @@
+Category,Item,Description,Type
+Personal,Name,Rick James F. Baranda,Info
+Personal,Title,Full-Stack Developer,Info
+Personal,Location,Philippines,Info
+Personal,Email,your.email@gmail.com,Info
+Personal,Phone,+63 912 345 6789,Info
+Personal,Bio,"Hello! I'm a Computer Science graduate from the Philippines with a strong passion for programming, which began during my college years. Since then, I've been dedicated to creating digital solutions that make a difference. As an aspiring full-stack developer, I enjoy the entire process of bringing ideas to life - from designing user interfaces to building robust backend systems. I believe in learning through building, and every project teaches me something new. I'm currently seeking opportunities to grow professionally while contributing to meaningful projects. I'm particularly interested in web development, mobile applications, and emerging technologies. Always open to collaborations and new challenges! When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing knowledge with fellow developers in the community.",Info
+Skills,HTML5,Semantic HTML markup,Frontend
+Skills,CSS3,Modern CSS with animations,Frontend
+Skills,JavaScript,ES6+ JavaScript,Frontend
+Skills,React,React Hooks & Context,Frontend
+Skills,Bootstrap,Responsive design framework,Frontend
+Skills,Tailwind CSS,Utility-first CSS framework,Frontend
+Skills,Node.js,Server-side JavaScript,Backend
+Skills,Python,Python programming,Backend
+Skills,Django,Full-stack Python framework,Backend
+Skills,Flask,Lightweight Python framework,Backend
+Skills,PHP,Server-side scripting,Backend
+Skills,TensorFlow,Deep learning framework,Backend
+Skills,MySQL,Relational database,Database & Tools
+Skills,MongoDB,NoSQL database,Database & Tools
+Skills,Figma,Design and prototyping tool,Database & Tools
+Skills,Visual Studio Code,Code editor,Database & Tools
+Skills,Ngrok,Tunnel hosting service,Database & Tools
+Skills,TypeScript,Typed JavaScript,Currently Learning
+Skills,Vue.js,Vue 3 Composition API,Currently Learning
+Skills,Next.js,React framework,Currently Learning
+Skills,GraphQL,Query language for APIs,Currently Learning
+Skills,Git,Version control system,Currently Learning
+Skills,Docker,Containerization platform,Currently Learning
+Skills,React Native,Mobile app development,Currently Learning
+Skills,Machine Learning,AI and ML algorithms,Currently Learning
+Skills,DevOps,Development operations,Currently Learning
+Projects,Loan Interest Calculator,"A responsive web application that helps users calculate monthly payments, total interest, and loan schedules based on inputted amount, interest rate, and duration. Built with a clean, interactive UI for easy financial planning.",Frontend
+Projects,Loan Interest Calculator Tech Stack,"HTML, CSS, JavaScript",Frontend
+Projects,Rice and Sugarcane Crops Disease Detection,"A Web-Based Application for Rice and Sugarcane Crops Disease Detection in Tarlac using Convolutional Neural Network. This thesis project implements AI-powered image recognition to help farmers identify and manage crop diseases effectively.",Full-Stack
+Projects,Rice and Sugarcane Crops Disease Detection Tech Stack,"HTML, CSS, JavaScript, Python, Flask, TensorFlow, Ngrok, GoDaddy",Full-Stack
+Projects,Online Shopping Platform,"A responsive e-commerce website with shopping cart functionality, payment integration, and admin dashboard for inventory management.",Full-Stack
+Projects,Online Shopping Platform Tech Stack,"Vue.js, Laravel, MySQL, Stripe API",Full-Stack
+Contact,Email,your.email@gmail.com,Contact
+Contact,Phone,+63 912 345 6789,Contact
+Contact,Location,Philippines,Contact
+Contact,GitHub,https://github.com/yourusername,Social
+Contact,LinkedIn,https://linkedin.com/in/yourusername,Social
+Contact,Twitter,https://twitter.com/yourusername,Social 
